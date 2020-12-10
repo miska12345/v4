@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Python', 'Go', 'C/C++', 'Swift', 'AWS/Azure/GCP'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +141,19 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Shang, a software engineer based in Seattle, WA.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I enjoy building things that brings convenience for people, such as websites, apps,
+              and services. My goal is to create scalable, reliable, and performant solutions that
+              have positive global impacts.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I will graduate from{' '}
+              <a href="https://www.cs.washington.edu">University of Washington</a> in March, 2021.
+              Shortly after graduation, I will join <a href="https://aws.amazon.com/">Amazon</a> as
+              a Software Development Engineer (SDE) building cloud services for people.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
