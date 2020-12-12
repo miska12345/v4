@@ -2,7 +2,7 @@
 date: '1'
 title: 'MiskaRFS'
 cover: './a.png'
-github: 'https://github.com/miska12345/ESP8266RC'
+github: 'https://github.com/miska12345/MiskaRFS'
 tech:
   - Go
 showInProjects: true
